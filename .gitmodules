@@ -1,0 +1,3 @@
+[submodule "piiquante"]
+	path = piiquante
+	url = git@github.com-openclassrooms:mathurinchung/piiquante.git
