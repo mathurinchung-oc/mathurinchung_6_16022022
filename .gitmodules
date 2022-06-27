@@ -1,0 +1,3 @@
+[submodule "piiquante"]
+	path = piiquante
+	url = https://github.com/mathurinchung/piiquante
