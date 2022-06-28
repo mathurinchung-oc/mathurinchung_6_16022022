@@ -6,8 +6,7 @@ Créez le backend et l'API d'une application d'avis gastronomiques de sauces piq
 
 Vous avez passé la dernière année en tant que développeur back-end indépendant et vous avez travaillé sur plusieurs projets de tailles et de difficultés variées.
 
-La semaine dernière, vous avez reçu un message sur votre plateforme de freelance vous demandant de l'aide pour un nouveau projet. Les sauces piquantes sont de plus en plus populaires, en grande partie grâce à la série YouTube « Hot Ones » .  <br />
-C’est pourquoi ce nouveau client, la marque de condiments à base de piment *Piiquante*, veut développer une application web de critique des sauces piquantes appelée « Hot Takes » .
+La semaine dernière, vous avez reçu un message sur votre plateforme de freelance vous demandant de l'aide pour un nouveau projet. Les sauces piquantes sont de plus en plus populaires, en grande partie grâce à la série YouTube « Hot Ones » . C’est pourquoi ce nouveau client, la marque de condiments à base de piment *Piiquante*, veut développer une application web de critique des sauces piquantes appelée « Hot Takes » .
 
 ![logo piiquante](docs/piiquantelogo.png)
 > *Piiquante : Marque de sauces piquantes*
@@ -16,6 +15,7 @@ Si la responsable produit de Piiquante souhaite à terme transformer l'applicati
 
 Le délai est raisonnable, vous décidez donc d'accepter le projet. Après avoir rencontré Paula, la cheffe de produit de Piiquante, elle vous envoie l’email suivant :
 
+>
 > :envelope:
 >
 > **De**: Paula Z. <br />
@@ -33,6 +33,7 @@ Le délai est raisonnable, vous décidez donc d'accepter le projet. Après avoir
 >
 > Cordialement,
 >
+> -- <br />
 > Paula Z. <br />
 > Cheffe de produit <br />
 > Piiquante
